@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeleMed</string>
+    <string name="regBtn">Регистрация</string>
+    <string name="authBtn">Авторизация</string>
+    <string name="enterBtn">Войти</string>
+    <string name="passHint">Введите пароль</string>
+    <string name="logHint">Введите логин</string>
+</resources>
